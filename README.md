@@ -1,8 +1,6 @@
 # Welcome to movie_recommendation_system
 ## About
-  This is a mini-project for SC1015 - Introduction to Data Science and Aritificial Intelligence
-
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from [The Movie Database APIs](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+  This is a mini-project for SC1015 - Introduction to Data Science and Aritificial Intelligence which focuses on movies from [TMDB 5000 Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
   
 ## Contributors
 
