@@ -14,16 +14,18 @@
 
 ## Models Used
 
-1. TF-IDF Vectorizer
-2. Count Vectorizer
+1. Recommendation model using TF-IDF Vectorizer
+2. Improved MetaData based model using Count Vectorizer
 
 ## Conclusion
 
-- Having more metadata can aid the model in recommending a wider range of movies
-- Data Pre-processing is important for the model to recommend relevant movies.
+- Having more metadata can aid the model in recommending better movies.
+- Data Pre-processing is important for the model to recommend similar movies.
+- Using Bag of words technique helps to generate better recommendations
 
 ## What did we learn from this project?
 
+- Concept of Bag of Words
 - Usage of TF-IDF and Count Vectorizer
 - Other packages such as ast, json
 - Collaborating using GitHub
@@ -32,3 +34,5 @@
 ## References
 
 - <https://www.kaggle.com/code/erikbruin/movie-recommendation-systems-for-tmdb/report>
+- <https://medium.com/analytics-vidhya/netflix-movie-recommendation-system-using-nlp-ca5dd0fe299a>
+- <https://www.kdnuggets.com/2019/11/content-based-recommender-using-natural-language-processing-nlp.html>
