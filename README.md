@@ -4,9 +4,9 @@
   
 ## Contributors
 
-- @ - 
-- @ - 
-- @ - 
+- @Yixian17
+- @mdfirdaussss
+- @mdumar99
 
 ## Problem Definition
 
