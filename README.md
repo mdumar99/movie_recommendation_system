@@ -1,4 +1,4 @@
-# Welcome to movie_recommendation_system
+# Welcome to movie recommendation system
 ## About
   This is a mini-project for SC1015 - Introduction to Data Science and Aritificial Intelligence which focuses on movies from [TMDB 5000 Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
   
